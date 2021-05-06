@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 using Sys = Cosmos.System;
+using Nolant108.input;
 
 namespace Nolant108
 {
@@ -9,15 +10,14 @@ namespace Nolant108
     {
         protected override void BeforeRun()
         {
-            Console.WriteLine("Cosmos booted successfully. Type a line of text to get it echoed back.");
+            Console.WriteLine("Nolant108-OS Running!");
         }
 
-        protected override void Run()
+         protected override void Run()
         {
             Console.Write("> ");
-            var input = Console.ReadLine();
-            Console.Write("Text typed: ");
-            Console.WriteLine(input);
+            Input.Maininput();
+
         }
     }
 }

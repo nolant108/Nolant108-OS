@@ -6,3 +6,4 @@ C:\Users\Owner\Documents\GitHub\Nolant108-OS\Nolant108\obj\None\netcoreapp2.0\co
 C:\Users\Owner\Documents\GitHub\Nolant108-OS\Nolant108\obj\None\netcoreapp2.0\cosmos\Nolant108.AssemblyInfo.cs
 C:\Users\Owner\Documents\GitHub\Nolant108-OS\Nolant108\obj\None\netcoreapp2.0\cosmos\Nolant108.dll
 C:\Users\Owner\Documents\GitHub\Nolant108-OS\Nolant108\obj\None\netcoreapp2.0\cosmos\Nolant108.pdb
+C:\Users\Owner\Documents\GitHub\Nolant108-OS\Nolant108\obj\None\netcoreapp2.0\cosmos\Nolant108.csprojAssemblyReference.cache
