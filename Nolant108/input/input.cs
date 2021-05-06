@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Nolant108.cmd;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
@@ -13,9 +14,11 @@ namespace Nolant108.input
         {
             cmdinput = Console.ReadLine();
 
-            if (cmdinput == "hello"){Hello.hello();}
-            if (cmdinput == "reboot"){Reboot.reboot();}
-            if (cmdinput == "shutdown"){Shutdown.shutdown();}
+                if (cmdinput == "hello"){Hello.hello();}
+                if (cmdinput == "reboot"){Reboot.reboot();}
+                if (cmdinput == "shutdown"){Shutdown.shutdown();}
+                if (cmdinput == "about"){About.about();}
+                if (cmdinput == "calc"){ calculatorCommand.calccmd();}
         }
 
     }

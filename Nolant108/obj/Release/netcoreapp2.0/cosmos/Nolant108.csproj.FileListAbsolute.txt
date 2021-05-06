@@ -1,0 +1,9 @@
+C:\Users\Owner\Documents\GitHub\Nolant108-OS\Nolant108\bin\Release\netcoreapp2.0\cosmos\Nolant108.deps.json
+C:\Users\Owner\Documents\GitHub\Nolant108-OS\Nolant108\bin\Release\netcoreapp2.0\cosmos\Nolant108.dll
+C:\Users\Owner\Documents\GitHub\Nolant108-OS\Nolant108\bin\Release\netcoreapp2.0\cosmos\Nolant108.pdb
+C:\Users\Owner\Documents\GitHub\Nolant108-OS\Nolant108\obj\Release\netcoreapp2.0\cosmos\Nolant108.csprojAssemblyReference.cache
+C:\Users\Owner\Documents\GitHub\Nolant108-OS\Nolant108\obj\Release\netcoreapp2.0\cosmos\Nolant108.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\GitHub\Nolant108-OS\Nolant108\obj\Release\netcoreapp2.0\cosmos\Nolant108.AssemblyInfoInputs.cache
+C:\Users\Owner\Documents\GitHub\Nolant108-OS\Nolant108\obj\Release\netcoreapp2.0\cosmos\Nolant108.AssemblyInfo.cs
+C:\Users\Owner\Documents\GitHub\Nolant108-OS\Nolant108\obj\Release\netcoreapp2.0\cosmos\Nolant108.dll
+C:\Users\Owner\Documents\GitHub\Nolant108-OS\Nolant108\obj\Release\netcoreapp2.0\cosmos\Nolant108.pdb
