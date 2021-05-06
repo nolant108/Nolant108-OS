@@ -13,11 +13,17 @@ namespace Nolant108
             Console.WriteLine("Nolant108-OS Running!");
         }
 
-         protected override void Run()
+        protected override void Run()
         {
             Console.Write("> ");
             Input.Maininput();
 
+        }
+
+        public static void reload()
+        {
+            Console.Write("> ");
+            Input.Maininput();
         }
     }
 }
