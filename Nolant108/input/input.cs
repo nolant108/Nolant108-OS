@@ -22,6 +22,8 @@ namespace Nolant108.input
                 if (cmdinput == "calc"){ calculatorCommand.calccmd();}
                 if (cmdinput == "etc") {Etc.etc(); }
                 if (cmdinput == "time") { time.Main(); }
+                if (cmdinput == "help") { Help.help(); }
+                if (cmdinput == "clear") { Clear.clear();}
 
                 //GUI
                 if (cmdinput == "gui") { GuiMain.guimain();}

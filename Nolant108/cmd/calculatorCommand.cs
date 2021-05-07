@@ -50,8 +50,6 @@ namespace Nolant108.cmd
                 case "d":
                     Console.WriteLine($"Your result: {num1} / {num2} = " + (num1 / num2));
                     break;
-                case " ":
-                    break;
             }
         }
 
